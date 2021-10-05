@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352205472681",
+    "project_id": "fakeinsta-dd5e1",
+    "storage_bucket": "fakeinsta-dd5e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352205472681:android:c77fd5dff8e306bcf9fab8",
+        "android_client_info": {
+          "package_name": "com.clownycluster.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352205472681-6e16s9m73m1lvq1u5us461gf4kuqe52f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINmMhG5DMqsEijFTHurKjZgry1W1oDnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352205472681-6e16s9m73m1lvq1u5us461gf4kuqe52f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
